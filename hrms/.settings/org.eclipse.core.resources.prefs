@@ -1,0 +1,17 @@
+#Fri Oct 18 19:28:01 CST 2019
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/sal/sal.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/sal/showAddSal.jsp=UTF-8
+encoding//WebRoot/css/css.css=UTF-8
+encoding//WebRoot/css/pager.css=UTF-8
+encoding//WebRoot/js=UTF-8
+encoding//WebRoot/js/fkjava_timer.js=UTF-8
+encoding//WebRoot/js/ligerUI/js/plugins/ligerToolBar.js=UTF-8
+encoding//WebRoot/js/metronic/plugins/flot/jquery.flot.js=UTF-8
+encoding//WebRoot/js/metronic/plugins/jquery.sparkline.min.js=UTF-8
+encoding//WebRoot/js/tiny_mce/plugins/table/cell.htm=GBK
+encoding//WebRoot/js/tiny_mce/themes/advanced/about.htm=UTF-8
+encoding//WebRoot/js/tiny_mce/themes/advanced/color_picker.htm=UTF-8
+encoding//src/org/fkit/hrm/interceptor=UTF-8
+encoding//src/org/fkit/hrm/interceptor/AuthorizedInterceptor.java=UTF-8
+encoding//src/org/fkit/hrm/util/tag/PagerTag.java=UTF-8
